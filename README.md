@@ -5,4 +5,5 @@ Simple canvas with option to draw on it. You can draw with different colors and 
 -JavaScript
 
 # What I Learned
--Color Picking etc.
+- Color Picking 
+- Working with colors in general
